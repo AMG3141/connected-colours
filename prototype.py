@@ -72,7 +72,7 @@ def main():
 
 	################################################
 
-	vid = camera(200, 200, 100)
+	vid = camera(316, 208, 200)
 	start = datetime.now()
 	
 	if __debug__:
